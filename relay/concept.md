@@ -1,9 +1,10 @@
-1. Allgemein
+# Allgemein
 
 Nostr Relays sind ein wesentlicher Teil des Pareto-Backends (neben dem Multimedia-Storage).
 Auf ihnen werden essentielle Informationen verwaltet, daher ist der Betrieb eigener Relays für die Pareto-Lösung unverzichtbar.
 
-a. sicher
+## sicher
+
 - short notes
 - long form content
 - direct messages
@@ -17,23 +18,29 @@ a. sicher
 - nostr connect / wallet connect
 - lightning zaps und zap goals
 
-b. eventuell
+## eventuell
+
 - Wiki
 - live activities
 - video events
 
-2. Zugriff
+# Zugriff
 
 Der Zugriff soll für verschiedene Nutzergruppen mit entsprechenden Rollen und Berechtigungen möglich sein.
 
-a. Leser
+## Leser
+
 - nur lesend / kostenfrei / via URL mittels Browser / kein Nostr-Client (Account) erforderlich
-b. interaktiver User
+
+## interaktiver User
+
 - kostenfrei / via Nostr-Client (like, vote, repost, comment, highlight, zap, ???)
-c. Autor 
+
+## Autor 
+
 - content production / kostenpflichtig (pauschal oder nutzungsbasiert) / via Pareto-Client / Pareto-Account (Nostr-Domäne, Lightning-Adresse)
 
-3. Relay Eigenschaften
+# Relay Eigenschaften
 
 - Relays nach aktuellem Stand der Technik (max. Anzahl supporteter NIPS)
 - paid Relays (um flooding und spamming zu verhindern)
@@ -42,7 +49,7 @@ c. Autor
 - möglichst caching, indexing, search, categorizing (für thematische Filter und Antispam-Option) → siehe Primal Services
 - Monitoring, KPI und Alerts (Admin-Dashboard)
 
-4. Auswahl-Prozess
+# Auswahl-Prozess
 
 - Anbieter
 - VPS-Typ
