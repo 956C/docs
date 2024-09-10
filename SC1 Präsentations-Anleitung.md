@@ -1,6 +1,5 @@
 ### Pareto Präsentations-Anleitung
 
-![Pareto Startseite hell](https://hackmd.io/_uploads/SkNCaqa3A.png)
 [Startseite hell](https://cdn.satellite.earth/dbf7c09b68225c780b2d76772abd50fff442aeb207505eafac8eba7ace63dca3.png)
 
 Browser-Client
@@ -57,7 +56,6 @@ Vorbereitungen
 - responsive design
 - PWA verfügbar
 
-![Pareto Start Pareto](https://hackmd.io/_uploads/rJaccopnC.jpg)
 [Pareto mobile](https://cdn.satellite.earth/990a1e8e91c322c38827ae5fdeb9062d5d0e783a8c46d70522c07835c8cf643e.jpeg)
 
 
